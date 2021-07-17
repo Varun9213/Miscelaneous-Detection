@@ -1,4 +1,4 @@
-# SIIM-FISABIO-RSNA-COVID-19-Detection
+# Miscelaneous-Detection
 
 1. cov19-efnb7-yolov5-pytorch-infer.ipynb : Is the inference notebook being used in the competition
 2. siim-cov19-yolov5-train-fold-0.ipynb : Is being used to train yoloV5 on the image level object detection (opacities) task for fold 0 there are 4 similar notebooks for the rest of the folds.
